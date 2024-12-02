@@ -39,3 +39,5 @@ While the dataset is rich in information, it does have several limitations. The 
 4.	How does square footage (both living space and lot size) impact property value?
 5.	Is there a premium on newer homes or recently renovated homes compared to older structures?
 6.	How does the number of bedrooms and bathrooms influence the overall price?
+## Final Presentation in Tableau : 
+https://public.tableau.com/app/profile/imane.chehah/viz/KingCountyHousesales_17330560493150/KingCountyHouseSales?publish=yes
